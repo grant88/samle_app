@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
   def home
-  	@titile = "Home"
+  	@title = "Home"
   end
 
   def contact
