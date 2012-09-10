@@ -37,6 +37,11 @@ end
 gem 'jquery-rails'
 
 gem 'spork'
+
+ gem 'autotest'
+ gem 'autotest-rails-pure'
+ gem 'autotest-fsevent'
+ gem 'autotest-growl'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
